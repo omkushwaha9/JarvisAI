@@ -14,7 +14,7 @@ export const dummyMessages = [
     },
     {
         role: 'assistant',
-        content: 'https://www.shutterstock.com/image-photo/happy-mixed-breed-dog-portrait-600nw-1663393486.jpg'
+        content: 'https://qph.cf2.quoracdn.net/main-qimg-7a5426041126f69df97dc8fd94e6d383-lq'
     },
 
 ]
